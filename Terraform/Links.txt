@@ -1,0 +1,5 @@
+Terraform with EC2 - https://github.com/stacksimplify/terraform-on-aws-ec2
+
+Hashicorp terraform - https://github.com/stacksimplify/hashicorp-certified-terraform-associate
+
+Terraform Docs - https://registry.terraform.io/providers/hashicorp/aws/latest/docs
